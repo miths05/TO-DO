@@ -24,10 +24,13 @@ CSS: For styling the application.
 
 # How to Run the Project
 
-Clone the repository from GitHub:git clone https://github.com/miths05/TO-DO.git
+Clone the repository from GitHub:  
+git clone https://github.com/miths05/TO-DO.git
 
-Install the dependencies: npm install
+Install the dependencies: 
+npm install
 
-Start the development server: npm start
+Start the development server: 
+npm start
 
 
